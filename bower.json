@@ -1,0 +1,14 @@
+{
+  "name": "crypto",
+  "version": "0.1.0",
+  "main": "cryto.js",
+  "ignore": [
+    "**/.*",
+  ],
+  "dependencies": {
+    
+  },
+  "devDependencies": {
+    "crypto-js": "http://crypto-js.googlecode.com/files/CryptoJS%20v3.1.2.zip",
+  }
+}
